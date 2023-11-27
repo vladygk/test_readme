@@ -3,7 +3,7 @@
 ![Alt text](./readmePhotos/arch.png)
 
 ## Structure:
-    - **Backend API**:
+    - ** Backend API **:
         **NodeJS/ExpressJS** HTTP Server with a GRPC client
         MongoDB to keep the Posts and Comments entities
     - **Backend Authentication service**
@@ -15,7 +15,7 @@
 
 ## How to run:
     From root folder:
-    **Backend API**: `cd ./blog-app-api; npm start`
+    **Backend API**: ` cd ./blog-app-api; npm start `
     **Backend Authentication service**: `cd ./blog-app-auth-service; go run main.go`
     **Frontend React service**: `cd ./blog-app-frontend; npm run dev`
 ## Flow:
