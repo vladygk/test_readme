@@ -36,13 +36,17 @@ From the root folder:
 - JWT authentication
 - Independent scalability for the Backend API and the Backend Authentication Service
 - Responsive design
-
-
-## Photos:
-
+. 
+# Photos:
+## Home page
 ![Alt text](./readmePhotos/home.png)
+## Login page
 ![Alt text](./readmePhotos/login.png)
+## Posts page
 ![Alt text](./readmePhotos/posts1.png)
+## Create post page
 ![Alt text](./readmePhotos/postCreate1.png)
+## Posts page with open add comment form 
 ![Alt text](./readmePhotos/posts2.png)
+## Posts page with open comment section 
 ![Alt text](./readmePhotos/comments.png)
